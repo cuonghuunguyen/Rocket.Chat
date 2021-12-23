@@ -204,7 +204,7 @@
 		"css-vars-ponyfill": "^2.4.7",
 		"csv-parse": "^4.16.3",
 		"date-fns": "^2.23.0",
-		"dompurify": "^2.2.9",
+		"dompurify": "^2.3.4",
 		"ejson": "^2.2.1",
 		"emailreplyparser": "^0.0.5",
 		"emojione": "^4.5.0",
